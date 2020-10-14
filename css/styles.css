@@ -3,7 +3,19 @@
   float: right; 
   background-color: aquamarine
 }
+.column1{
+  width: 300px; 
+  float: left; 
+  background-color: goldenrod;
+}
+.column2{
+  width: 300px; 
+  float: left; 
+  background-color: teal;
 
-img{
-  float: left;
+}
+.column3{
+  width: 300px; 
+  float: left; 
+  background-color: indigo;
 }
